@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Ronika Paul</h1>
-<h3 align="center"> Iam a MCA student at Amal jyothi College Of Engineering,Kottayam.</h3>
+<h3 align="center"> Currently working as Cloud Operations Engineer at Safran.</h3>
 
 <br>
 <br>
@@ -9,7 +9,6 @@
 <br>
 
 
-- 🌱 I’m currently learning master of computer application
 
 - 📫 How to reach me ronikapaul2000@gmail.com
 
